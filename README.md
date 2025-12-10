@@ -69,7 +69,7 @@ o	- Optimal: High Demand AND High Paying
 ### 🔹 Most In-Demand 'Remote' Jobs
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/e7ee2929-c824-4bd4-8574-9dbaa92ab0c9" />
 
-
+---
 
 ### 🔹 Most In-Demand Skills
 - **SQL** is the most demanded skill with **8,557 job postings**, making it the core requirement for data roles.
@@ -86,8 +86,6 @@ o	- Optimal: High Demand AND High Paying
 - **AI, MLOps, Cloud, and Big Data tools** consistently command six-figure salaries across the job market.
 - <img width="4200" height="2100" alt="image" src="https://github.com/user-attachments/assets/fd086338-9fd8-4685-b192-725980d4003f" />
 
-
-
 ---
 
 ### 🔹 Top Paying Remote Data Analyst Jobs
@@ -96,11 +94,11 @@ o	- Optimal: High Demand AND High Paying
 - High-paying opportunities are concentrated in **full-time, remote leadership and advanced analytics positions**.
 
 ---
----
 
 ### 🔹 Most Optimal Skills Based on Job Postings and Average Salary
 
-<img width="3000" height="1500" alt="image" src="https://github.com/user-attachments/assets/4b6f821f-462c-42ba-8b23-19393b36ba65" />
+<img width="4200" height="1500" alt="image" src="https://github.com/user-attachments/assets/c6be891b-87dc-48af-b13a-226af3ea250f" />
+
 ---
 
 ## 🧑‍💻 Tools & Technologies
