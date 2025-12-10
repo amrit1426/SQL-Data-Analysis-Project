@@ -84,6 +84,9 @@ o	- Optimal: High Demand AND High Paying
 - **SVN** leads the salary chart with an average salary of **$246K**, reflecting premium demand for niche expertise.
 - **Solidity, Couchbase, DataRobot, and Golang** dominate the high-paying bracket above **$150K**.
 - **AI, MLOps, Cloud, and Big Data tools** consistently command six-figure salaries across the job market.
+- <img width="4200" height="2100" alt="image" src="https://github.com/user-attachments/assets/fd086338-9fd8-4685-b192-725980d4003f" />
+
+
 
 ---
 
