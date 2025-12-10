@@ -98,7 +98,8 @@ o	- Optimal: High Demand AND High Paying
 
 - **Database:** PostgreSQL  
 - **SQL Client:** HeidiSQL  
-- **Language:** SQL  
+- **Language:** SQL
+- **Visualization Tool:** pandas and matplotlib 
 ---
 
 ## 📌 Conclusion
