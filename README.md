@@ -96,6 +96,12 @@ o	- Optimal: High Demand AND High Paying
 - High-paying opportunities are concentrated in **full-time, remote leadership and advanced analytics positions**.
 
 ---
+---
+
+### 🔹 Most Optimal Skills Based on Job Postings and Average Salary
+
+<img width="3000" height="1500" alt="image" src="https://github.com/user-attachments/assets/4b6f821f-462c-42ba-8b23-19393b36ba65" />
+---
 
 ## 🧑‍💻 Tools & Technologies
 
