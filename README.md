@@ -75,6 +75,8 @@ o	- Optimal: High Demand AND High Paying
 - **SQL** is the most demanded skill with **8,557 job postings**, making it the core requirement for data roles.
 - **Excel and Python** show very high demand, proving the importance of both analytics and automation.
 - **Tableau and Power BI** remain critical for business intelligence and reporting.
+ <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/9f103347-72d0-4442-8203-15710aadf4b8" />
+
 
 ---
 
