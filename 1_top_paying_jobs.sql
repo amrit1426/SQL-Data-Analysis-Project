@@ -25,12 +25,3 @@ ORDER BY
 	salary_year_avg DESC 
 LIMIT 10
 
--- =========================================================
--- Key Insights: Highest Paying Full-Time Remote Data Roles
--- =========================================================
-
-/*
-The highest-paying role is a Data Analyst at Mantys with an exceptional average salary of $650K, far above the market.
-Director and Associate Director roles dominate the upper salary range, confirming strong pay growth with seniority.
-All top-paying roles are full-time and location-flexible, highlighting the premium on remote senior analytics positions.
-*/
