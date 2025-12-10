@@ -66,6 +66,10 @@ o	- Optimal: High Demand AND High Paying
 ---
 
 ## 🔍 Key Insights from Analysis
+### 🔹 Most In-Demand 'Remote' Jobs
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/e7ee2929-c824-4bd4-8574-9dbaa92ab0c9" />
+
+
 
 ### 🔹 Most In-Demand Skills
 - **SQL** is the most demanded skill with **8,557 job postings**, making it the core requirement for data roles.
